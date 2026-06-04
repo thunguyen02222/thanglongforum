@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "welcomeTitle": "Bienvenido",
+    "welcomeDesc": "Una plataforma para gestionar tu trabajo de forma eficaz y conectar con tu equipo fácilmente.",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "welcomeBack": "Bienvenido de nuevo",
+    "loginSubtitle": "Introduce tu información para acceder a tu cuenta",
+    "email": "Correo electrónico",
+    "emailPlaceholder": "tu@ejemplo.com",
+    "password": "Contraseña",
+    "passwordPlaceholder": "........",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "loginButton": "Iniciar sesión",
+    "loggingIn": "Iniciando sesión...",
+    "or": "O",
+    "loginWithGoogle": "Iniciar sesión con Google",
+    "noAccount": "¿No tienes cuenta?",
+    "registerNow": "Regístrate ahora",
+    "createAccount": "Crear cuenta",
+    "createAccountSubtitle": "Completa la información para comenzar",
+    "fullName": "Nombre completo",
+    "fullNamePlaceholder": "Juan Pérez",
+    "username": "Usuario",
+    "usernamePlaceholder": "usuario",
+    "confirmPassword": "Confirmar contraseña",
+    "minPassword": "Mínimo 8 caracteres",
+    "createAccountButton": "Crear cuenta",
+    "creatingAccount": "Creando cuenta...",
+    "signUpWithGoogle": "Registrarse con Google",
+    "hasAccount": "¿Ya tienes cuenta?",
+    "termsPrefix": "Al registrarte, aceptas los",
+    "termsOfService": "Términos del servicio",
+    "and": "y la",
+    "privacyPolicy": "Política de privacidad"
+  },
+  "home": {
+    "title": "Inicio",
+    "subtitle": "Bienvenido al sistema",
+    "accountInfo": "Información de la cuenta",
+    "accountInfoDesc": "Gestiona tu información personal",
+    "recentActivity": "Actividad reciente",
+    "recentActivityDesc": "Ver tu actividad reciente",
+    "settings": "Ajustes",
+    "settingsDesc": "Personalizar configuración de la cuenta"
+  },
+  "landing": {
+    "tagline": "Sistema inteligente de gestión de almacén",
+    "warehouse": "Almacén",
+    "warehouseDesc": "Seguimiento de inventario, entradas y salidas",
+    "reports": "Informes",
+    "reportsDesc": "Estadísticas e informes detallados",
+    "users": "Gestión de usuarios",
+    "usersDesc": "Permisos y gestión de cuentas"
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "loading": "Cargando...",
+    "error": "Se ha producido un error"
+  }
+}

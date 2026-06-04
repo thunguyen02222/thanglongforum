@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "welcomeTitle": "Chào mừng bạn",
+    "welcomeDesc": "Nền tảng giúp bạn quản lý công việc hiệu quả và kết nối với đội ngũ một cách dễ dàng.",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "welcomeBack": "Chào mừng bạn quay trở lại",
+    "loginSubtitle": "Nhập thông tin để truy cập tài khoản của bạn",
+    "email": "Email",
+    "emailPlaceholder": "ten@example.com",
+    "password": "Mật khẩu",
+    "passwordPlaceholder": "........",
+    "forgotPassword": "Quên mật khẩu?",
+    "loginButton": "Đăng nhập",
+    "loggingIn": "Đang đăng nhập...",
+    "or": "Hoặc",
+    "loginWithGoogle": "Đăng nhập với Google",
+    "noAccount": "Chưa có tài khoản?",
+    "registerNow": "Đăng ký ngay",
+    "createAccount": "Tạo tài khoản",
+    "createAccountSubtitle": "Điền thông tin bên dưới để bắt đầu",
+    "fullName": "Họ và tên",
+    "fullNamePlaceholder": "Nguyễn Văn A",
+    "username": "Username",
+    "usernamePlaceholder": "tendangnhap",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "minPassword": "Tối thiểu 8 ký tự",
+    "createAccountButton": "Tạo tài khoản",
+    "creatingAccount": "Đang tạo tài khoản...",
+    "signUpWithGoogle": "Đăng ký với Google",
+    "hasAccount": "Đã có tài khoản?",
+    "termsPrefix": "Bằng việc đăng ký, bạn đồng ý với",
+    "termsOfService": "Điều khoản dịch vụ",
+    "and": "và",
+    "privacyPolicy": "Chính sách bảo mật"
+  },
+  "home": {
+    "title": "Trang chủ",
+    "subtitle": "Chào mừng bạn đến với hệ thống",
+    "accountInfo": "Thông tin tài khoản",
+    "accountInfoDesc": "Quản lý thông tin cá nhân của bạn",
+    "recentActivity": "Hoạt động gần đây",
+    "recentActivityDesc": "Xem các hoạt động gần đây của bạn",
+    "settings": "Cài đặt",
+    "settingsDesc": "Tùy chỉnh cài đặt tài khoản"
+  },
+  "landing": {
+    "tagline": "Hệ thống quản lý kho hàng thông minh",
+    "warehouse": "Quản lý kho",
+    "warehouseDesc": "Theo dõi tồn kho, nhập xuất hàng hóa",
+    "reports": "Báo cáo",
+    "reportsDesc": "Thống kê, báo cáo chi tiết",
+    "users": "Quản lý người dùng",
+    "usersDesc": "Phân quyền, quản lý tài khoản"
+  },
+  "common": {
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "loading": "Đang tải...",
+    "error": "Có lỗi xảy ra"
+  }
+}

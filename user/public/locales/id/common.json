@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "welcomeTitle": "Selamat datang",
+    "welcomeDesc": "Platform untuk mengelola pekerjaan secara efektif dan terhubung dengan tim dengan mudah.",
+    "login": "Masuk",
+    "register": "Daftar",
+    "welcomeBack": "Selamat datang kembali",
+    "loginSubtitle": "Masukkan informasi untuk mengakses akun Anda",
+    "email": "Email",
+    "emailPlaceholder": "you@example.com",
+    "password": "Kata sandi",
+    "passwordPlaceholder": "........",
+    "forgotPassword": "Lupa kata sandi?",
+    "loginButton": "Masuk",
+    "loggingIn": "Sedang masuk...",
+    "or": "Atau",
+    "loginWithGoogle": "Masuk dengan Google",
+    "noAccount": "Belum punya akun?",
+    "registerNow": "Daftar sekarang",
+    "createAccount": "Buat akun",
+    "createAccountSubtitle": "Isi informasi di bawah untuk memulai",
+    "fullName": "Nama lengkap",
+    "fullNamePlaceholder": "Budi Santoso",
+    "username": "Username",
+    "usernamePlaceholder": "username",
+    "confirmPassword": "Konfirmasi kata sandi",
+    "minPassword": "Minimal 8 karakter",
+    "createAccountButton": "Buat akun",
+    "creatingAccount": "Sedang membuat...",
+    "signUpWithGoogle": "Daftar dengan Google",
+    "hasAccount": "Sudah punya akun?",
+    "termsPrefix": "Dengan mendaftar, Anda setuju dengan",
+    "termsOfService": "Ketentuan Layanan",
+    "and": "dan",
+    "privacyPolicy": "Kebijakan Privasi"
+  },
+  "home": {
+    "title": "Beranda",
+    "subtitle": "Selamat datang di sistem",
+    "accountInfo": "Informasi akun",
+    "accountInfoDesc": "Kelola informasi pribadi Anda",
+    "recentActivity": "Aktivitas terbaru",
+    "recentActivityDesc": "Lihat aktivitas terbaru Anda",
+    "settings": "Pengaturan",
+    "settingsDesc": "Sesuaikan pengaturan akun"
+  },
+  "landing": {
+    "tagline": "Sistem manajemen gudang pintar",
+    "warehouse": "Gudang",
+    "warehouseDesc": "Lacak inventori, barang masuk dan keluar",
+    "reports": "Laporan",
+    "reportsDesc": "Statistik dan laporan rinci",
+    "users": "Manajemen pengguna",
+    "usersDesc": "Izin dan manajemen akun"
+  },
+  "common": {
+    "save": "Simpan",
+    "cancel": "Batal",
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan"
+  }
+}

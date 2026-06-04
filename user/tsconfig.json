@@ -1,0 +1,80 @@
+{
+  "compilerOptions": {
+    "target": "ES2024",
+    "lib": [
+      "ES5",
+      "ES6",
+      "ES7",
+      "DOM",
+      "DOM.Iterable",
+      "esnext",
+      "ES2024"
+    ],
+    "types": ["node"],
+    "typeRoots": ["./node_modules/@types", "./pages/api/types"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "baseUrl": "./",
+    "paths": {
+      "@layouts/*": [
+        "./src/layouts/*"
+      ],
+      "@components/*": [
+        "./src/components/*"
+      ],
+      "@lib/*": [
+        "./src/lib/*"
+      ],
+      "@services/*": [
+        "./src/services/*"
+      ],
+      "@utils/*": [
+        "./src/utils/*"
+      ],
+      "@hooks/*": [
+        "./src/hooks/*"
+      ],
+      "@interfaces/*": [
+        "./src/interfaces/*"
+      ],
+      "@socket/*": [
+        "./src/socket/*"
+      ],
+      "@stores/*": [
+        "./src/stores/*"
+      ],
+      "@icons/*": [
+        "./src/icons/*"
+      ],
+      "src/*": [
+        "./src/*"
+      ]
+    },
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "./src/**/*",
+    ".next/types/**/*.ts"
+  ]
+}
+

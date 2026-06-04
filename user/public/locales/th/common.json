@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "welcomeTitle": "ยินดีต้อนรับ",
+    "welcomeDesc": "แพลตฟอร์มช่วยจัดการงานอย่างมีประสิทธิภาพและเชื่อมต่อกับทีมได้ง่าย",
+    "login": "เข้าสู่ระบบ",
+    "register": "สมัครสมาชิก",
+    "welcomeBack": "ยินดีต้อนรับกลับ",
+    "loginSubtitle": "กรอกข้อมูลเพื่อเข้าถึงบัญชีของคุณ",
+    "email": "อีเมล",
+    "emailPlaceholder": "you@example.com",
+    "password": "รหัสผ่าน",
+    "passwordPlaceholder": "........",
+    "forgotPassword": "ลืมรหัสผ่าน?",
+    "loginButton": "เข้าสู่ระบบ",
+    "loggingIn": "กำลังเข้าสู่ระบบ...",
+    "or": "หรือ",
+    "loginWithGoogle": "เข้าสู่ด้วย Google",
+    "noAccount": "ยังไม่มีบัญชี?",
+    "registerNow": "สมัครเลย",
+    "createAccount": "สร้างบัญชี",
+    "createAccountSubtitle": "กรอกข้อมูลด้านล่างเพื่อเริ่มต้น",
+    "fullName": "ชื่อ-นามสกุล",
+    "fullNamePlaceholder": "สมชาย ใจดี",
+    "username": "ชื่อผู้ใช้",
+    "usernamePlaceholder": "username",
+    "confirmPassword": "ยืนยันรหัสผ่าน",
+    "minPassword": "อย่างน้อย 8 ตัวอักษร",
+    "createAccountButton": "สร้างบัญชี",
+    "creatingAccount": "กำลังสร้าง...",
+    "signUpWithGoogle": "สมัครด้วย Google",
+    "hasAccount": "มีบัญชีอยู่แล้ว?",
+    "termsPrefix": "การสมัครถือว่าคุณยอมรับ",
+    "termsOfService": "ข้อกำหนดการให้บริการ",
+    "and": "และ",
+    "privacyPolicy": "นโยบายความเป็นส่วนตัว"
+  },
+  "home": {
+    "title": "หน้าแรก",
+    "subtitle": "ยินดีต้อนรับสู่ระบบ",
+    "accountInfo": "ข้อมูลบัญชี",
+    "accountInfoDesc": "จัดการข้อมูลส่วนตัวของคุณ",
+    "recentActivity": "กิจกรรมล่าสุด",
+    "recentActivityDesc": "ดูกิจกรรมล่าสุดของคุณ",
+    "settings": "การตั้งค่า",
+    "settingsDesc": "ปรับแต่งการตั้งค่าบัญชี"
+  },
+  "landing": {
+    "tagline": "ระบบจัดการคลังสินค้าอัจฉริยะ",
+    "warehouse": "คลังสินค้า",
+    "warehouseDesc": "ติดตามสต็อก การรับ-จ่ายสินค้า",
+    "reports": "รายงาน",
+    "reportsDesc": "สถิติและรายงานละเอียด",
+    "users": "จัดการผู้ใช้",
+    "usersDesc": "สิทธิ์และการจัดการบัญชี"
+  },
+  "common": {
+    "save": "บันทึก",
+    "cancel": "ยกเลิก",
+    "loading": "กำลังโหลด...",
+    "error": "เกิดข้อผิดพลาด"
+  }
+}

@@ -1,0 +1,15 @@
+node_modules/
+dist/
+build/
+.next/
+*.log
+yarn.lock
+package-lock.json
+.env*
+coverage/
+public/sw.js
+public/workbox-*.js
+*.min.js
+*.min.css
+next-env.d.ts
+

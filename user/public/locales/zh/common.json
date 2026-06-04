@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "welcomeTitle": "欢迎",
+    "welcomeDesc": "助您高效管理工作、轻松连接团队的平台。",
+    "login": "登录",
+    "register": "注册",
+    "welcomeBack": "欢迎回来",
+    "loginSubtitle": "输入信息以访问您的账户",
+    "email": "邮箱",
+    "emailPlaceholder": "you@example.com",
+    "password": "密码",
+    "passwordPlaceholder": "........",
+    "forgotPassword": "忘记密码？",
+    "loginButton": "登录",
+    "loggingIn": "登录中...",
+    "or": "或",
+    "loginWithGoogle": "使用 Google 登录",
+    "noAccount": "没有账户？",
+    "registerNow": "立即注册",
+    "createAccount": "创建账户",
+    "createAccountSubtitle": "填写以下信息开始",
+    "fullName": "姓名",
+    "fullNamePlaceholder": "张三",
+    "username": "用户名",
+    "usernamePlaceholder": "username",
+    "confirmPassword": "确认密码",
+    "minPassword": "至少8个字符",
+    "createAccountButton": "创建账户",
+    "creatingAccount": "创建中...",
+    "signUpWithGoogle": "使用 Google 注册",
+    "hasAccount": "已有账户？",
+    "termsPrefix": "注册即表示您同意",
+    "termsOfService": "服务条款",
+    "and": "和",
+    "privacyPolicy": "隐私政策"
+  },
+  "home": {
+    "title": "首页",
+    "subtitle": "欢迎使用本系统",
+    "accountInfo": "账户信息",
+    "accountInfoDesc": "管理您的个人信息",
+    "recentActivity": "最近活动",
+    "recentActivityDesc": "查看您最近的活动",
+    "settings": "设置",
+    "settingsDesc": "自定义账户设置"
+  },
+  "landing": {
+    "tagline": "智能仓储管理系统",
+    "warehouse": "仓储",
+    "warehouseDesc": "库存与进出库管理",
+    "reports": "报表",
+    "reportsDesc": "统计与详细报表",
+    "users": "用户管理",
+    "usersDesc": "权限与账户管理"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "取消",
+    "loading": "加载中...",
+    "error": "发生错误"
+  }
+}

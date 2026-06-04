@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "welcomeTitle": "Welcome",
+    "welcomeDesc": "A platform to manage your work effectively and connect with your team easily.",
+    "login": "Login",
+    "register": "Register",
+    "welcomeBack": "Welcome back",
+    "loginSubtitle": "Enter your information to access your account",
+    "email": "Email",
+    "emailPlaceholder": "you@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "........",
+    "forgotPassword": "Forgot password?",
+    "loginButton": "Login",
+    "loggingIn": "Logging in...",
+    "or": "Or",
+    "loginWithGoogle": "Login with Google",
+    "noAccount": "Don't have an account?",
+    "registerNow": "Register now",
+    "createAccount": "Create account",
+    "createAccountSubtitle": "Fill in the information below to get started",
+    "fullName": "Full name",
+    "fullNamePlaceholder": "John Doe",
+    "username": "Username",
+    "usernamePlaceholder": "username",
+    "confirmPassword": "Confirm password",
+    "minPassword": "Minimum 8 characters",
+    "createAccountButton": "Create account",
+    "creatingAccount": "Creating account...",
+    "signUpWithGoogle": "Sign up with Google",
+    "hasAccount": "Already have an account?",
+    "termsPrefix": "By registering, you agree to the",
+    "termsOfService": "Terms of Service",
+    "and": "and",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "home": {
+    "title": "Home",
+    "subtitle": "Welcome to the system",
+    "accountInfo": "Account information",
+    "accountInfoDesc": "Manage your personal information",
+    "recentActivity": "Recent activity",
+    "recentActivityDesc": "View your recent activity",
+    "settings": "Settings",
+    "settingsDesc": "Customize account settings"
+  },
+  "landing": {
+    "tagline": "Smart warehouse management system",
+    "warehouse": "Warehouse",
+    "warehouseDesc": "Track inventory, goods in and out",
+    "reports": "Reports",
+    "reportsDesc": "Statistics and detailed reports",
+    "users": "User management",
+    "usersDesc": "Permissions and account management"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "error": "An error occurred"
+  }
+}

@@ -1,0 +1,55 @@
+import { Catch, ArgumentsHost, HttpException } from '@nestjs/common';
+import { BaseExceptionFilter } from '@nestjs/core';
+import { HttpExceptionLogModel } from './http-exception-log.model';
+
+@Catch()
+export class HttpExceptionLogFilter extends BaseExceptionFilter {
+  async catch(exception: any, host: ArgumentsHost) {
+    try {
+      // Only log 500 errors to database, let other errors pass through
+      if (exception instanceof HttpException && exception.getStatus() !== 500) {
+        return super.catch(exception, host);
+      }
+
+      const ctx = host.switchToHttp();
+      const response = ctx.getResponse<any>();
+      const request = ctx.getRequest<any>();
+      const status =
+        exception instanceof HttpException ? exception.getStatus() : 500;
+      const message =
+        exception instanceof HttpException
+          ? exception.getResponse()
+          : 'Internal server error';
+
+      // Save exception log to database
+      const log = new HttpExceptionLogModel({
+        path: request.path,
+        method: request.method,
+        ip: request.ip || request.headers['x-forwarded-for'],
+        headers: request.headers,
+        query: request.query,
+        body: request.body,
+        authData: request.user || null,
+        error: exception.stack || exception,
+        statusCode: status
+      });
+      await log.save();
+
+      return response.status(status).json({
+        statusCode: status,
+        message,
+        timestamp: new Date().toISOString(),
+        path: request.path
+      });
+    } catch (e) {
+      // Fallback if logging fails
+      console.error('Failed to log exception:', e);
+      const ctx = host.switchToHttp();
+      const response = ctx.getResponse<any>();
+      return response.status(500).json({
+        statusCode: 500,
+        message: 'Something went wrong, please try again later'
+      });
+    }
+  }
+}

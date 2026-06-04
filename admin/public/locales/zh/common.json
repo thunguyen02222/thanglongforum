@@ -1,0 +1,34 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "users": "Users",
+    "settings": "Settings",
+    "logout": "Log out"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage system settings",
+    "tabGeneral": "General",
+    "tabEmail": "Email (SMTP)",
+    "tabAuth": "Login (Google)"
+  },
+  "auth": {
+    "loginTitle": "Log in to admin panel",
+    "emailOrUsername": "Email (Gmail) or Username",
+    "emailPlaceholder": "admin@example.com or admin",
+    "password": "Password",
+    "passwordPlaceholder": "••••••••",
+    "loginButton": "Log in",
+    "loggingIn": "Logging in..."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "System overview",
+    "users": "Users"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "loading": "Loading..."
+  }
+}

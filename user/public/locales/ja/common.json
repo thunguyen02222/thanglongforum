@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "welcomeTitle": "ようこそ",
+    "welcomeDesc": "仕事を効率的に管理し、チームと簡単につながるプラットフォーム。",
+    "login": "ログイン",
+    "register": "登録",
+    "welcomeBack": "おかえりなさい",
+    "loginSubtitle": "アカウントにアクセスするには情報を入力してください",
+    "email": "メール",
+    "emailPlaceholder": "you@example.com",
+    "password": "パスワード",
+    "passwordPlaceholder": "........",
+    "forgotPassword": "パスワードをお忘れですか？",
+    "loginButton": "ログイン",
+    "loggingIn": "ログイン中...",
+    "or": "または",
+    "loginWithGoogle": "Googleでログイン",
+    "noAccount": "アカウントをお持ちでないですか？",
+    "registerNow": "今すぐ登録",
+    "createAccount": "アカウント作成",
+    "createAccountSubtitle": "以下の情報を入力して開始",
+    "fullName": "氏名",
+    "fullNamePlaceholder": "山田 太郎",
+    "username": "ユーザー名",
+    "usernamePlaceholder": "username",
+    "confirmPassword": "パスワード確認",
+    "minPassword": "8文字以上",
+    "createAccountButton": "アカウント作成",
+    "creatingAccount": "作成中...",
+    "signUpWithGoogle": "Googleで登録",
+    "hasAccount": "すでにアカウントをお持ちですか？",
+    "termsPrefix": "登録により、以下に同意したものとみなされます：",
+    "termsOfService": "利用規約",
+    "and": "および",
+    "privacyPolicy": "プライバシーポリシー"
+  },
+  "home": {
+    "title": "ホーム",
+    "subtitle": "システムへようこそ",
+    "accountInfo": "アカウント情報",
+    "accountInfoDesc": "個人情報の管理",
+    "recentActivity": "最近のアクティビティ",
+    "recentActivityDesc": "最近のアクティビティを表示",
+    "settings": "設定",
+    "settingsDesc": "アカウント設定のカスタマイズ"
+  },
+  "landing": {
+    "tagline": "スマート倉庫管理システム",
+    "warehouse": "倉庫",
+    "warehouseDesc": "在庫・入出荷の管理",
+    "reports": "レポート",
+    "reportsDesc": "統計と詳細レポート",
+    "users": "ユーザー管理",
+    "usersDesc": "権限とアカウント管理"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "キャンセル",
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました"
+  }
+}

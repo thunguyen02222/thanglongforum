@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "welcomeTitle": "Willkommen",
+    "welcomeDesc": "Eine Plattform zur effektiven Arbeitsverwaltung und einfachen Teambindung.",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "welcomeBack": "Willkommen zurück",
+    "loginSubtitle": "Geben Sie Ihre Daten ein, um auf Ihr Konto zuzugreifen",
+    "email": "E-Mail",
+    "emailPlaceholder": "sie@beispiel.com",
+    "password": "Passwort",
+    "passwordPlaceholder": "........",
+    "forgotPassword": "Passwort vergessen?",
+    "loginButton": "Anmelden",
+    "loggingIn": "Anmeldung...",
+    "or": "Oder",
+    "loginWithGoogle": "Mit Google anmelden",
+    "noAccount": "Noch kein Konto?",
+    "registerNow": "Jetzt registrieren",
+    "createAccount": "Konto erstellen",
+    "createAccountSubtitle": "Füllen Sie die Angaben unten aus, um zu starten",
+    "fullName": "Vollständiger Name",
+    "fullNamePlaceholder": "Max Mustermann",
+    "username": "Benutzername",
+    "usernamePlaceholder": "benutzername",
+    "confirmPassword": "Passwort bestätigen",
+    "minPassword": "Mindestens 8 Zeichen",
+    "createAccountButton": "Konto erstellen",
+    "creatingAccount": "Wird erstellt...",
+    "signUpWithGoogle": "Mit Google registrieren",
+    "hasAccount": "Bereits ein Konto?",
+    "termsPrefix": "Mit der Registrierung stimmen Sie den",
+    "termsOfService": "Nutzungsbedingungen",
+    "and": "und der",
+    "privacyPolicy": "Datenschutzrichtlinie zu"
+  },
+  "home": {
+    "title": "Startseite",
+    "subtitle": "Willkommen im System",
+    "accountInfo": "Kontoinformationen",
+    "accountInfoDesc": "Verwalten Sie Ihre persönlichen Daten",
+    "recentActivity": "Letzte Aktivitäten",
+    "recentActivityDesc": "Ihre letzten Aktivitäten anzeigen",
+    "settings": "Einstellungen",
+    "settingsDesc": "Kontoeinstellungen anpassen"
+  },
+  "landing": {
+    "tagline": "Intelligentes Lagerverwaltungssystem",
+    "warehouse": "Lager",
+    "warehouseDesc": "Bestand, Ein- und Ausgänge verfolgen",
+    "reports": "Berichte",
+    "reportsDesc": "Statistiken und detaillierte Berichte",
+    "users": "Benutzerverwaltung",
+    "usersDesc": "Berechtigungen und Kontoverwaltung"
+  },
+  "common": {
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten"
+  }
+}

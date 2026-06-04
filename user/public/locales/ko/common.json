@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "welcomeTitle": "환영합니다",
+    "welcomeDesc": "업무를 효율적으로 관리하고 팀과 쉽게 소통하는 플랫폼.",
+    "login": "로그인",
+    "register": "회원가입",
+    "welcomeBack": "다시 오신 것을 환영합니다",
+    "loginSubtitle": "계정에 접속하려면 정보를 입력하세요",
+    "email": "이메일",
+    "emailPlaceholder": "you@example.com",
+    "password": "비밀번호",
+    "passwordPlaceholder": "........",
+    "forgotPassword": "비밀번호를 잊으셨나요?",
+    "loginButton": "로그인",
+    "loggingIn": "로그인 중...",
+    "or": "또는",
+    "loginWithGoogle": "Google로 로그인",
+    "noAccount": "계정이 없으신가요?",
+    "registerNow": "지금 가입",
+    "createAccount": "계정 만들기",
+    "createAccountSubtitle": "아래 정보를 입력하여 시작하세요",
+    "fullName": "이름",
+    "fullNamePlaceholder": "홍길동",
+    "username": "사용자 이름",
+    "usernamePlaceholder": "username",
+    "confirmPassword": "비밀번호 확인",
+    "minPassword": "최소 8자",
+    "createAccountButton": "계정 만들기",
+    "creatingAccount": "만드는 중...",
+    "signUpWithGoogle": "Google로 가입",
+    "hasAccount": "이미 계정이 있으신가요?",
+    "termsPrefix": "가입하면 다음에 동의하는 것입니다:",
+    "termsOfService": "서비스 약관",
+    "and": "및",
+    "privacyPolicy": "개인정보 처리방침"
+  },
+  "home": {
+    "title": "홈",
+    "subtitle": "시스템에 오신 것을 환영합니다",
+    "accountInfo": "계정 정보",
+    "accountInfoDesc": "개인 정보 관리",
+    "recentActivity": "최근 활동",
+    "recentActivityDesc": "최근 활동 보기",
+    "settings": "설정",
+    "settingsDesc": "계정 설정 맞춤화"
+  },
+  "landing": {
+    "tagline": "스마트 창고 관리 시스템",
+    "warehouse": "창고",
+    "warehouseDesc": "재고, 입출고 관리",
+    "reports": "보고서",
+    "reportsDesc": "통계 및 상세 보고서",
+    "users": "사용자 관리",
+    "usersDesc": "권한 및 계정 관리"
+  },
+  "common": {
+    "save": "저장",
+    "cancel": "취소",
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다"
+  }
+}

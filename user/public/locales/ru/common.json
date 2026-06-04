@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "welcomeTitle": "Добро пожаловать",
+    "welcomeDesc": "Платформа для эффективной организации работы и связи с командой.",
+    "login": "Войти",
+    "register": "Регистрация",
+    "welcomeBack": "С возвращением",
+    "loginSubtitle": "Введите данные для доступа к аккаунту",
+    "email": "Эл. почта",
+    "emailPlaceholder": "you@example.com",
+    "password": "Пароль",
+    "passwordPlaceholder": "........",
+    "forgotPassword": "Забыли пароль?",
+    "loginButton": "Войти",
+    "loggingIn": "Вход...",
+    "or": "Или",
+    "loginWithGoogle": "Войти через Google",
+    "noAccount": "Нет аккаунта?",
+    "registerNow": "Зарегистрироваться",
+    "createAccount": "Создать аккаунт",
+    "createAccountSubtitle": "Заполните данные ниже, чтобы начать",
+    "fullName": "Полное имя",
+    "fullNamePlaceholder": "Иван Иванов",
+    "username": "Имя пользователя",
+    "usernamePlaceholder": "username",
+    "confirmPassword": "Подтвердите пароль",
+    "minPassword": "Минимум 8 символов",
+    "createAccountButton": "Создать аккаунт",
+    "creatingAccount": "Создание...",
+    "signUpWithGoogle": "Зарегистрироваться через Google",
+    "hasAccount": "Уже есть аккаунт?",
+    "termsPrefix": "Регистрируясь, вы соглашаетесь с",
+    "termsOfService": "Условиями использования",
+    "and": "и",
+    "privacyPolicy": "Политикой конфиденциальности"
+  },
+  "home": {
+    "title": "Главная",
+    "subtitle": "Добро пожаловать в систему",
+    "accountInfo": "Информация об аккаунте",
+    "accountInfoDesc": "Управление персональными данными",
+    "recentActivity": "Недавняя активность",
+    "recentActivityDesc": "Просмотр недавней активности",
+    "settings": "Настройки",
+    "settingsDesc": "Настройка аккаунта"
+  },
+  "landing": {
+    "tagline": "Система управления складом",
+    "warehouse": "Склад",
+    "warehouseDesc": "Учёт запасов, приход и расход",
+    "reports": "Отчёты",
+    "reportsDesc": "Статистика и детальные отчёты",
+    "users": "Управление пользователями",
+    "usersDesc": "Права доступа и аккаунты"
+  },
+  "common": {
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "loading": "Загрузка...",
+    "error": "Произошла ошибка"
+  }
+}

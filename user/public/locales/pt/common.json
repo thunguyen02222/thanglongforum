@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "welcomeTitle": "Bem-vindo",
+    "welcomeDesc": "Uma plataforma para gerir o seu trabalho de forma eficaz e conectar com a equipa facilmente.",
+    "login": "Entrar",
+    "register": "Registar",
+    "welcomeBack": "Bem-vindo de volta",
+    "loginSubtitle": "Introduza os seus dados para aceder à sua conta",
+    "email": "E-mail",
+    "emailPlaceholder": "voce@exemplo.com",
+    "password": "Palavra-passe",
+    "passwordPlaceholder": "........",
+    "forgotPassword": "Esqueceu a palavra-passe?",
+    "loginButton": "Entrar",
+    "loggingIn": "A entrar...",
+    "or": "Ou",
+    "loginWithGoogle": "Entrar com Google",
+    "noAccount": "Ainda não tem conta?",
+    "registerNow": "Registe-se agora",
+    "createAccount": "Criar conta",
+    "createAccountSubtitle": "Preencha as informações abaixo para começar",
+    "fullName": "Nome completo",
+    "fullNamePlaceholder": "João Silva",
+    "username": "Nome de utilizador",
+    "usernamePlaceholder": "utilizador",
+    "confirmPassword": "Confirmar palavra-passe",
+    "minPassword": "Mínimo 8 caracteres",
+    "createAccountButton": "Criar conta",
+    "creatingAccount": "A criar conta...",
+    "signUpWithGoogle": "Registar com Google",
+    "hasAccount": "Já tem conta?",
+    "termsPrefix": "Ao registar-se, concorda com os",
+    "termsOfService": "Termos de Serviço",
+    "and": "e a",
+    "privacyPolicy": "Política de Privacidade"
+  },
+  "home": {
+    "title": "Início",
+    "subtitle": "Bem-vindo ao sistema",
+    "accountInfo": "Informação da conta",
+    "accountInfoDesc": "Gerir a sua informação pessoal",
+    "recentActivity": "Atividade recente",
+    "recentActivityDesc": "Ver a sua atividade recente",
+    "settings": "Definições",
+    "settingsDesc": "Personalizar definições da conta"
+  },
+  "landing": {
+    "tagline": "Sistema inteligente de gestão de armazém",
+    "warehouse": "Armazém",
+    "warehouseDesc": "Acompanhar inventário, entradas e saídas",
+    "reports": "Relatórios",
+    "reportsDesc": "Estatísticas e relatórios detalhados",
+    "users": "Gestão de utilizadores",
+    "usersDesc": "Permissões e gestão de contas"
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "loading": "A carregar...",
+    "error": "Ocorreu um erro"
+  }
+}

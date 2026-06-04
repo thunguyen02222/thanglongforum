@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+*.log
+yarn.lock
+package-lock.json
+.env*
+coverage/
+migrations/
+scripts/
+public/
+*.min.js
+*.min.css

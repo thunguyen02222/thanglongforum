@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "welcomeTitle": "Bienvenue",
+    "welcomeDesc": "Une plateforme pour gérer votre travail efficacement et rester connecté à votre équipe.",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "welcomeBack": "Bon retour",
+    "loginSubtitle": "Entrez vos informations pour accéder à votre compte",
+    "email": "E-mail",
+    "emailPlaceholder": "vous@exemple.com",
+    "password": "Mot de passe",
+    "passwordPlaceholder": "........",
+    "forgotPassword": "Mot de passe oublié ?",
+    "loginButton": "Connexion",
+    "loggingIn": "Connexion en cours...",
+    "or": "Ou",
+    "loginWithGoogle": "Se connecter avec Google",
+    "noAccount": "Pas encore de compte ?",
+    "registerNow": "S'inscrire",
+    "createAccount": "Créer un compte",
+    "createAccountSubtitle": "Remplissez les informations ci-dessous pour commencer",
+    "fullName": "Nom complet",
+    "fullNamePlaceholder": "Jean Dupont",
+    "username": "Nom d'utilisateur",
+    "usernamePlaceholder": "utilisateur",
+    "confirmPassword": "Confirmer le mot de passe",
+    "minPassword": "Minimum 8 caractères",
+    "createAccountButton": "Créer un compte",
+    "creatingAccount": "Création en cours...",
+    "signUpWithGoogle": "S'inscrire avec Google",
+    "hasAccount": "Déjà un compte ?",
+    "termsPrefix": "En vous inscrivant, vous acceptez les",
+    "termsOfService": "Conditions d'utilisation",
+    "and": "et la",
+    "privacyPolicy": "Politique de confidentialité"
+  },
+  "home": {
+    "title": "Accueil",
+    "subtitle": "Bienvenue sur le système",
+    "accountInfo": "Informations du compte",
+    "accountInfoDesc": "Gérez vos informations personnelles",
+    "recentActivity": "Activité récente",
+    "recentActivityDesc": "Voir votre activité récente",
+    "settings": "Paramètres",
+    "settingsDesc": "Personnaliser les paramètres du compte"
+  },
+  "landing": {
+    "tagline": "Système intelligent de gestion d'entrepôt",
+    "warehouse": "Entrepôt",
+    "warehouseDesc": "Suivi des stocks, entrées et sorties",
+    "reports": "Rapports",
+    "reportsDesc": "Statistiques et rapports détaillés",
+    "users": "Gestion des utilisateurs",
+    "usersDesc": "Permissions et gestion des comptes"
+  },
+  "common": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite"
+  }
+}

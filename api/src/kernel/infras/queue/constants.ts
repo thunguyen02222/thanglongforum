@@ -1,0 +1,3 @@
+export const QUEUE_CONFIG = 'QUEUE_CONFIG';
+export const QUEUE_SERVICE = 'QUEUE_SERVICE';
+

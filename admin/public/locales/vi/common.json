@@ -1,0 +1,34 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "users": "Người dùng",
+    "settings": "Cài đặt",
+    "logout": "Đăng xuất"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "subtitle": "Quản lý cài đặt hệ thống",
+    "tabGeneral": "Cài đặt chung",
+    "tabEmail": "Email (SMTP)",
+    "tabAuth": "Đăng nhập (Google)"
+  },
+  "auth": {
+    "loginTitle": "Đăng nhập vào hệ thống quản trị",
+    "emailOrUsername": "Email (Gmail) hoặc Username",
+    "emailPlaceholder": "admin@example.com hoặc admin",
+    "password": "Mật khẩu",
+    "passwordPlaceholder": "••••••••",
+    "loginButton": "Đăng nhập",
+    "loggingIn": "Đang đăng nhập..."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Tổng quan hệ thống",
+    "users": "Người dùng"
+  },
+  "common": {
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "loading": "Đang tải..."
+  }
+}

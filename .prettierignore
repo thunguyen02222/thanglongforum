@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build outputs
+dist/
+build/
+.next/
+**/.next/
+
+# Logs
+*.log
+
+# Lock files
+yarn.lock
+package-lock.json
+
+# Environment
+.env*
+
+# Coverage
+coverage/
+
+# Public
+public/sw.js
+public/workbox-*.js
+
+# Misc
+*.min.js
+*.min.css
+next-env.d.ts
+
